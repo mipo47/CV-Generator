@@ -1,0 +1,232 @@
+<section id="portfolio" className="section">
+          <div className="container">
+
+            <div className="section-title">
+              <h2>Portfolio</h2>
+              <span className="border"></span>
+            </div>
+
+            <div className="row">
+              <div id="options" className="clearfix">
+                <ul id="filters" className="option-set clearfix" data-option-key="filter">
+                  <li><a
+                    href="http://html.metrothemes.me/md-html/md-live/index-1.html#filter"
+                    data-option-value="*"
+                    className="selected"
+                  >all works</a></li>
+                  <li><a
+                    href="http://html.metrothemes.me/md-html/md-live/index-1.html#filter"
+                    data-option-value=".webdesign"
+                  >webdesign</a></li>
+                  <li><a
+                    href="http://html.metrothemes.me/md-html/md-live/index-1.html#filter"
+                    data-option-value=".uidesign"
+                  >uidesign</a></li>
+                  <li><a
+                    href="http://html.metrothemes.me/md-html/md-live/index-1.html#filter"
+                    data-option-value=".branding"
+                  >branding</a></li>
+                  <li><a
+                    href="http://html.metrothemes.me/md-html/md-live/index-1.html#filter"
+                    data-option-value=".logodesign"
+                  >logodesign</a></li>
+                  <li><a
+                    href="http://html.metrothemes.me/md-html/md-live/index-1.html#filter"
+                    data-option-value=".illustration"
+                  >illustration</a></li>
+                </ul>
+              </div>
+            </div>
+            <div className="row">
+              <div className="portfolio-container isotope" style="position: relative; overflow: hidden; height: 982px;">
+                <div
+                  className="col-xs-12 col-sm-6 col-md-4 mt webdesign isotope-item"
+                  style="position: absolute; left: 0px; top: 0px; transform: translate3d(0px, 0px, 0px);"
+                >
+                  <div className="project-item">
+                    <div className="project-image">
+                      <a href="http://html.metrothemes.me/md-html/md-live/portfolio-single.html">
+                        <img src="../../../public/css/1.jpg" alt="" />
+
+                        <div className="overlay">
+                          <div className="details">
+                            <h2>portfolio title design</h2>
+
+                            <p>developed for <span>Envato</span></p>
+                          </div>
+                        </div>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+
+                <div
+                  className="col-xs-12 col-sm-6 col-md-4 mt webdesign logodesign isotope-item"
+                  style="position: absolute; left: 0px; top: 0px; transform: translate3d(390px, 0px, 0px);"
+                >
+                  <div className="project-item">
+                    <div className="project-image">
+                      <a href="http://html.metrothemes.me/md-html/md-live/portfolio-single-slider.html">
+                        <img src="../../../public/css/2.jpg" alt="" />
+                        <div className="overlay">
+                          <div className="details">
+                            <h2>portfolio title design</h2>
+                            <p>developed for <span>Envato</span></p>
+                          </div>
+                        </div>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+
+                <div
+                  className="col-xs-12 col-sm-6 col-md-4 mt webdesign illustration logodesign isotope-item"
+                  style="position: absolute; left: 0px; top: 0px; transform: translate3d(780px, 0px, 0px);"
+                >
+                  <div className="project-item">
+                    <div className="project-image">
+                      <a href="http://html.metrothemes.me/md-html/md-live/portfolio-single-video.html">
+                        <img src="../../../public/css/3.jpg" alt="" />
+
+                        <div className="overlay">
+                          <div className="details">
+                            <h2>portfolio title design</h2>
+
+                            <p>developed for <span>Envato</span></p>
+                          </div>
+                        </div>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+
+                <div
+                  className="col-xs-12 col-sm-6 col-md-4 mt uidesign isotope-item"
+                  style="position: absolute; left: 0px; top: 0px; transform: translate3d(0px, 300px, 0px);"
+                >
+                  <div className="project-item">
+                    <div className="project-image">
+                      <a href="http://html.metrothemes.me/md-html/md-live/portfolio-single.html">
+                        <img src="../../../public/css/4.jpg" alt="" />
+
+                        <div className="overlay">
+                          <div className="details">
+                            <h2>portfolio title design</h2>
+
+                            <p>developed for <span>Envato</span></p>
+                          </div>
+                        </div>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+
+                <div
+                  className="col-xs-12 col-sm-6 col-md-4 mt uidesign isotope-item"
+                  style="position: absolute; left: 0px; top: 0px; transform: translate3d(390px, 300px, 0px);"
+                >
+                  <div className="project-item">
+                    <div className="project-image">
+                      <a href="http://html.metrothemes.me/md-html/md-live/portfolio-single-slider.html">
+                        <img src="../../../public/css/5.jpg" alt="" />
+
+                        <div className="overlay">
+                          <div className="details">
+                            <h2>portfolio title design</h2>
+
+                            <p>developed for <span>AKQA</span></p>
+                          </div>
+                        </div>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+
+                <div
+                  className="col-xs-12 col-sm-6 col-md-4 mt uidesign illustration isotope-item"
+                  style="position: absolute; left: 0px; top: 0px; transform: translate3d(780px, 300px, 0px);"
+                >
+                  <div className="project-item">
+                    <div className="project-image">
+                      <a href="http://html.metrothemes.me/md-html/md-live/portfolio-single-video.html">
+                        <img src="../../../public/css/6.jpg" alt="" />
+
+                        <div className="overlay">
+                          <div className="details">
+                            <h2>portfolio title design</h2>
+
+                            <p>developed for <span>Envato</span></p>
+                          </div>
+                        </div>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+
+                <div
+                  className="col-xs-12 col-sm-6 col-md-4 mt branding logodesign isotope-item"
+                  style="position: absolute; left: 0px; top: 0px; transform: translate3d(0px, 602px, 0px);"
+                >
+                  <div className="project-item">
+                    <div className="project-image">
+                      <a href="http://html.metrothemes.me/md-html/md-live/portfolio-single.html">
+                        <img src="../../../public/css/7.jpg" alt="" />
+
+                        <div className="overlay">
+                          <div className="details">
+                            <h2>Squared icon set design</h2>
+
+                            <p>developed for <span>Envato</span></p>
+                          </div>
+                        </div>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+
+                <div
+                  className="col-xs-12 col-sm-6 col-md-4 mt branding isotope-item"
+                  style="position: absolute; left: 0px; top: 0px; transform: translate3d(390px, 602px, 0px);"
+                >
+                  <div className="project-item">
+                    <div className="project-image">
+                      <a href="http://html.metrothemes.me/md-html/md-live/portfolio-single-slider.html">
+                        <img src="../../../public/css/8.jpg" alt="" />
+
+                        <div className="overlay">
+                          <div className="details">
+                            <h2>portfolio title design</h2>
+
+                            <p>developed for <span>Envato</span></p>
+                          </div>
+                        </div>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+
+                <div
+                  className="col-xs-12 col-sm-6 col-md-4 mt branding illustration isotope-item"
+                  style="position: absolute; left: 0px; top: 0px; transform: translate3d(780px, 602px, 0px);"
+                >
+                  <div className="project-item">
+                    <div className="project-image">
+                      <a href="http://html.metrothemes.me/md-html/md-live/portfolio-single-video.html">
+                        <img src="../../../public/css/9.jpg" alt="" />
+
+                        <div className="overlay">
+                          <div className="details">
+                            <h2>portfolio title design</h2>
+
+                            <p>developed for <span>Envato</span></p>
+                          </div>
+                        </div>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+
+              </div>
+            </div>
+          </div>
+        </section>
