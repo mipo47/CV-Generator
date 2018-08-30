@@ -13,6 +13,13 @@ export const CV = {
   ],
   experience: [
     {
+      title: 'Javascript Developer',
+      company: 'Mysterium Network',
+      from: '2018 May',
+      to: 'Now',
+      description: 'Blockchain powered VPN client development for all platforms',
+    },
+    {
       project: 'Irektus',
       title: 'Javascript Developer',
       company: 'Fatmap',
